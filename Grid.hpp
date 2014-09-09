@@ -26,6 +26,8 @@ class Grid
 {
     uint16_t gridHeight, gridWidth;
     std::vector <std::vector <Cell>> cells;
+
+
 };
 
 #endif // GRID_HPP_INCLUDED
